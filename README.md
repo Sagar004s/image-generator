@@ -17,9 +17,8 @@ This is a simple project where you can enter a text prompt and get an image gene
 - gradio (optional for UI)
 
 
-## project clone 
-
-git clone https://github.com/amanraghavkumar/image_generator.git
+## project clone
+git clone https://github.com/Sagar004s/image-generator.git 
 
 copy this link and past it in your terminal to clone the project.
 cd image_generator
